@@ -133,7 +133,7 @@
 
         //  MATCH STATEMENT
 
-    //    How to include files in PHP
+    //    How to include files in PHP(in the `file.php`, i incremented x, i.e `x++`)
 
     $x = 5;
 
